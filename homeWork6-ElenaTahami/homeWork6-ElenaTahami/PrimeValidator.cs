@@ -9,12 +9,7 @@ namespace homeWork6_ElenaTahami
 
         public bool CheckerPrime(int inputnum)
 
-        {
-            //if (inputnum < 2)
-            //{
-
-            //    return " This Number is a not Prime number";
-            //}         
+        {      
 
             int sqrtNum = (int)Math.Sqrt(inputnum);
 
